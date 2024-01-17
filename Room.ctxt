@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Room\ here.\r\n\r\n\ @author\ (ABDULKARIM\ AHMED\ ISMAIL\ BITA-6-22-057-TZ)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ length\ floor
+comment1.target=Room(double,\ double,\ int)
+comment2.params=width
+comment2.target=void\ setwidth(double)
+comment3.params=
+comment3.target=double\ getlength()
+comment4.params=
+comment4.target=void\ setfloor()
+comment5.params=
+comment5.target=int\ getflopor()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
